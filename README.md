@@ -1,2 +1,1 @@
-# test-project
-my first Github project
+hi! iam rithika and this is my first Github project.
